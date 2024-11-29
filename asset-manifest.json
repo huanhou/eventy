@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eventy/static/css/main.5f179c10.css",
+    "main.js": "/eventy/static/js/main.227a844d.js",
+    "index.html": "/eventy/index.html",
+    "main.5f179c10.css.map": "/eventy/static/css/main.5f179c10.css.map",
+    "main.227a844d.js.map": "/eventy/static/js/main.227a844d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f179c10.css",
+    "static/js/main.227a844d.js"
+  ]
+}
